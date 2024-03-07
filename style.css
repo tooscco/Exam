@@ -1,0 +1,119 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.sec-div-sec, .sec-div-fir{
+    width: 50%;
+}
+
+a{
+    text-decoration: none;
+}
+
+.first-div{
+    position: sticky;
+    top: 0px !important;
+    z-index: 1000;
+    background: #f8f9fa;
+}
+
+.first-div h3{
+    color: #0802A3 !important;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.first-div-ul a{
+    color: #121214;
+    font-size: 20px;
+    font-weight: 400;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.first-div-ul a:hover{
+    text-decoration: underline;
+    color: #121214;
+}
+
+.first-div-btn01 button{
+    border: 1.5px solid #0802a3;
+    width: 75px;
+    padding: 3px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: #0802a3;
+}
+
+.first-div-btn01 button:hover, .first-div-btn02 button:hover{ 
+    background: #0802a3;
+    color: #ffffff;
+}
+
+.first-div-btn02 button{
+    border: 1.5px solid #0802a3;
+    width: 75px;
+    padding: 3px;
+    border-radius: 10px;
+    font-size: 15px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: #0802a3;
+}
+
+.sec-div-fir h1{
+    padding-right: 160px;
+    color: #121214;
+    font-size: 40px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+}
+
+.sec-div-fir p{
+    padding-right: 300px;
+    color: #121214;
+    font-size: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+}
+
+.thir-div p, .five-div p{
+    font-size: 32px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 700;
+    color: #121214;
+}
+
+.four-div-fir, .four-div-sec, .four-div-thir, .four-div-four{
+    height: 300px;
+    width: 190px;
+    border-radius: 10px;
+}
+
+.four-div-fir p, .four-div-sec p, .four-div-thir p, .four-div-four p{
+    font-size: 16px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: 500;
+    color: #E5E4FF !important;
+    padding: 0px 20px 0px 20px ;
+}
+
+.four-div-fir{
+    background: #0802a3;
+}
+
+.four-div-sec{
+    background: #ff7676;
+}
+
+.four-div-thir{
+    background: #ff4b91;
+}
+
+.four-div-four{background: #ffcd4b;
+}
+
