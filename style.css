@@ -117,3 +117,30 @@ a{
 .four-div-four{background: #ffcd4b;
 }
 
+.six-div-fir, .six-div-sec, .six-div-thir{
+    width: 320px;
+    height: 300px;
+    padding-top: 120px;
+    border-radius: 10px;
+}
+
+.six-div-fir p, .six-div-sec p, .six-div-thir p{
+    color: #4F0101;
+    font-size: 32px;
+    font-weight: 700;
+    font-family: 'Times New Roman', Times, serif;
+    padding-right: 20px;
+}
+
+.six-div-fir{
+    border: 1px solid #605cc4;
+}
+
+.six-div-sec, .six-div-thir{
+    border: 1px solid #ff9898;
+}
+
+.six-div a{
+    background: #0802A3;
+    color: #ffffff;
+}
